@@ -1,10 +1,12 @@
 {
     "name": "com.latynin-eugene.project-initializer",
-    "version": "1.2.3",
+    "version": "0.1",
     "displayName": "Project Initializer",
     "description": "Create default project folder structure in one click.",
     "unity": "2019.1",
     "documentationUrl": "https://github.com/LatyninEugene/unity-project-initializer",
+    "dependencies": {
+   },
     "author": {
       "name": "Latynin Eugene",
       "email": "latynineugene@gmail.com"
