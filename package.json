@@ -6,11 +6,13 @@
   "unity": "2019.1",
   "documentationUrl": "https://github.com/LatyninEugene/unity-project-initializer",
   "dependencies": {},
-  "samples": {
-    "displayName": "Default folder structure",
-    "description": "Provides a basic folder structure",
-    "path": "Samples~/DefaultFolderStructure"
-  },
+  "samples": [
+    {
+      "displayName": "Default folder structure",
+      "description": "Provides a basic folder structure",
+      "path": "Samples~/Default Folder Structure"
+    }
+  ],
   "author": {
     "name": "Latynin Eugene",
     "email": "latynineugene@gmail.com"
